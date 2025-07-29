@@ -1,0 +1,51 @@
+cpf,tipo_ocorrencia,descricao,data_ocorrencia,local,artigo_constituicao
+12345678901,Roubo,Roubo a estabelecimento comercial,2023-02-15,São Paulo,Art. 157
+23456789012,Furto,Furto de veículo,2022-11-20,Rio de Janeiro,Art. 155
+34567890123,Estelionato,Fraude bancária,2021-07-05,Belo Horizonte,Art. 171
+45678901234,Assalto,Assalto a pedestre,2020-09-17,Curitiba,Art. 157
+56789012345,Homicídio,Homicídio doloso,2019-12-01,Salvador,Art. 121
+67890123456,Tráfico de drogas,Tráfico de entorpecentes,2023-01-25,Fortaleza,Art. 33
+78901234567,Lesão corporal,Lesão corporal grave,2022-08-13,Porto Alegre,Art. 129
+89012345678,Roubo,Roubo a residência,2021-05-30,Recife,Art. 157
+90123456789,Furto,Furto simples,2020-03-10,Campinas,Art. 155
+01234567890,Estelionato,Estelionato contra idoso,2019-11-22,Guarulhos,Art. 171
+11223344556,Roubo,Roubo de carga,2023-04-12,Brasília,Art. 157
+22334455667,Furto,Furto qualificado,2022-06-18,Goiânia,Art. 155
+33445566778,Homicídio,Homicídio culposo,2021-09-27,São Luís,Art. 121
+44556677889,Lesão corporal,Lesão corporal leve,2020-12-05,Maceió,Art. 129
+55667788990,Tráfico de drogas,Posse para consumo,2019-10-11,João Pessoa,Art. 28
+66778899001,Roubo,Assalto a mão armada,2023-03-22,Teresina,Art. 157
+77889900112,Furto,Furto de bicicletas,2022-05-03,Cuiabá,Art. 155
+88990011223,Estelionato,Fraude em cartão de crédito,2021-08-14,Aracaju,Art. 171
+99001122334,Homicídio,Homicídio qualificado,2020-11-29,Vitória,Art. 121
+10111213141,Lesão corporal,Agressão física,2019-07-07,Rio Branco,Art. 129
+12131415161,Tráfico de drogas,Produção de drogas,2023-01-19,Macapá,Art. 33
+13141516171,Roubo,Roubo em transporte público,2022-09-23,Boa Vista,Art. 157
+14151617181,Furto,Furto em comércio,2021-04-16,Palmas,Art. 155
+15161718191,Estelionato,Fraude em licitação,2020-02-28,Porto Velho,Art. 171
+16171819201,Homicídio,Homicídio tentado,2019-06-12,Belo Horizonte,Art. 121
+17181920211,Lesão corporal,Lesão corporal dolosa,2023-05-05,São Paulo,Art. 129
+18192021221,Tráfico de drogas,Tráfico internacional,2022-07-30,Rio de Janeiro,Art. 33
+19202122231,Roubo,Roubo de veículo automotor,2021-03-08,Curitiba,Art. 157
+20212223241,Furto,Furto de celular,2020-10-14,Salvador,Art. 155
+21222324251,Estelionato,Fraude eletrônica,2019-05-01,Fortaleza,Art. 171
+22232425261,Homicídio,Homicídio por latrocínio,2023-02-02,Porto Alegre,Art. 121
+23242526271,Lesão corporal,Lesão corporal por acidente,2022-04-20,Recife,Art. 129
+24252627281,Tráfico de drogas,Posse irregular,2021-11-11,Campinas,Art. 28
+25262728291,Roubo,Roubo a estabelecimento bancário,2020-08-23,Guarulhos,Art. 157
+26272829301,Furto,Furto de equipamentos,2019-03-15,Brasília,Art. 155
+27282930311,Estelionato,Fraude fiscal,2023-06-01,Goiânia,Art. 171
+28293031321,Homicídio,Homicídio passional,2022-01-07,São Luís,Art. 121
+29303132331,Lesão corporal,Lesão corporal culposa,2021-06-22,Maceió,Art. 129
+30313233341,Tráfico de drogas,Distribuição ilegal,2020-09-19,João Pessoa,Art. 33
+31323334351,Roubo,Assalto a pedestre,2019-12-25,Teresina,Art. 157
+32333435361,Furto,Furto qualificado,2023-03-14,Cuiabá,Art. 155
+33343536371,Estelionato,Fraude previdenciária,2022-05-10,Aracaju,Art. 171
+34353637381,Homicídio,Homicídio em confronto,2021-08-30,Vitória,Art. 121
+35363738391,Lesão corporal,Lesão corporal leve,2020-11-05,Rio Branco,Art. 129
+36373839401,Tráfico de drogas,Tráfico doméstico,2019-07-17,Macapá,Art. 33
+37383940411,Roubo,Roubo de carga pesada,2023-01-28,Boa Vista,Art. 157
+38394041421,Furto,Furto simples,2022-10-21,Palmas,Art. 155
+39304142431,Estelionato,Estelionato empresarial,2021-02-19,Porto Velho,Art. 171
+40414243441,Homicídio,Homicídio culposo no trânsito,2020-06-04,Belo Horizonte,Art. 121
+41424344451,Lesão corporal,Agressão em briga,2019-09-29,São Paulo,Art. 129
